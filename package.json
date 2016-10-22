@@ -1,0 +1,26 @@
+{
+  "name": "chicago-sunrise",
+  "version": "1.0.0",
+  "description": "A Visualization of One Chicago Sunrise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanemyers/chicago-sunrise.git"
+  },
+  "keywords": [
+    "d3"
+  ],
+  "author": "Nathan Myers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanemyers/chicago-sunrise/issues"
+  },
+  "homepage": "https://github.com/nathanemyers/chicago-sunrise#readme",
+  "dependencies": {
+    "d3": "^4.2.8",
+    "webpack": "^1.13.2"
+  }
+}
